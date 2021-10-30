@@ -1,0 +1,44 @@
+html {
+    background-color: #282C34;
+    color: #ABB2BF;
+}
+
+html,
+body {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+code {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.code-green {
+    color: #97C379;
+}
+
+.code-pink {
+    color: #C778DC;
+}
+
+.code-blue {
+    color: #62ADEF;
+}
+
+.code-red {
+    color: #E16B74;
+}
+
+.code-orange {
+    color: #E5C07A;
+}
